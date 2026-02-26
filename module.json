@@ -1,0 +1,9 @@
+{
+    "name": "Batch Material Optimizer",
+    "description": "Batch select and modify imported materials to quickly optimize rendering properties.",
+    "version": "1.0.0",
+    "author": "Bakari Mustafa",
+    "main": "main.js",
+    "permissions": [],
+    "minStudioVersion": 222
+}
