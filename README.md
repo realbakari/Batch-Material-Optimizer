@@ -1,7 +1,6 @@
 # Batch Material Optimizer
 
-A Lens Studio Panel Plugin designed to save developers time by batch modifying material rendering properties.
-
+Batch Material Optimizer is a time-saving Panel Plugin designed to help developers quickly manage and optimize material rendering properties across their Lens Studio projects. Instead of modifying materials one by one, this tool provides a multi-select checklist of all materials in your project, allowing you to instantly apply global property mutations with a single click.
 ***
 
 ## The Problem
